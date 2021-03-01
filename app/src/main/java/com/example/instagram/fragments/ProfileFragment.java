@@ -35,5 +35,5 @@ public class ProfileFragment extends PostsFragment {
             }
         });
     }
-    
+
 }
